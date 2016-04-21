@@ -3,4 +3,5 @@
 .pydevproject
 .project
 django_mailchimp.egg-info
+.idea/
 dist
